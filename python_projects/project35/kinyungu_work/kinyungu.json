@@ -1,0 +1,12 @@
+[
+{
+    "model" : "kinyungu.task",
+    "pk" : 1,
+    "fields" : {
+        "slackUsername" : "kinyungudenismashell",
+        "backend" : "True",
+        "age" : "21",
+        "bio" : "A young disciplined and orderly man looking to gain skills"
+        }
+}
+]
